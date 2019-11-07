@@ -1,0 +1,8 @@
+Origin: wru’s repository
+Label: WrU
+Suite: stable
+Version: 1.0
+Codename:wru
+Architectures: iphoneos-arm
+Components: main
+Description: Hi
